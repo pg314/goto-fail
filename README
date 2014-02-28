@@ -1,0 +1,4 @@
+This is the refactored code of SSLVerifySignedServerKeyExchange() for the
+Apple TLS/SSL bug.
+
+See https://pgcode.blogspot.com for a write-up.
